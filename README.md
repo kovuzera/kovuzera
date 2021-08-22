@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando em projetos pessoais!
 - 🌱 Estudando ReactJS e Typescript
-- 😄 Pronouns: ele/dele
+- 😄 Ele/dele
 
 <div>
   <a href="https://github.com/kovuzera">
