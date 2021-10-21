@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Giovanne Marrone, bem-vindo ao meu GitHub!
 
-- 🔭 Atualmente trabalhando em projetos pessoais!
-- 🌱 Estudando ReactJS e Typescript
-- 😄 Ele/dele
+- 🔭 Currently working on personal projects for practice!
+- 🌱 Studying ReactJS and Typescript
+- 😄 He/Him
 
 <div>
   <a href="https://github.com/kovuzera">
