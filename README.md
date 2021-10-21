@@ -1,4 +1,4 @@
-### A junior front-end web developer focused on studying to one day be able to help people through code! 
+### Welcome to my GitHub!
 
 - 🔭 Currently working on personal projects for practice!
 - 🌱 Studying ReactJS and Typescript
