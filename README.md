@@ -1,4 +1,4 @@
-### Hi! I'm Giovanne Marrone, welcome to my GitHub!
+### A junior front-end web developer focused on studying to one day be able to help people through code! 
 
 - 🔭 Currently working on personal projects for practice!
 - 🌱 Studying ReactJS and Typescript
