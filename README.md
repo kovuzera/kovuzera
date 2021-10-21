@@ -1,4 +1,4 @@
-### Olá! Eu sou o Giovanne Marrone, bem-vindo ao meu GitHub!
+### Hi! I'm Giovanne Marrone, welcome to my GitHub!
 
 - 🔭 Currently working on personal projects for practice!
 - 🌱 Studying ReactJS and Typescript
