@@ -1,7 +1,8 @@
 ### Welcome to my GitHub!
 
-- 🔭 Currently working on personal projects for practice!
-- 🌱 Studying ReactJS and Typescript
+- 🎯 Currently working on web development skills!
+- 👨‍💻 Studying ReactJS and Typescript
+- 🌟 My goal is to help people through code!
 - 😄 He/Him
 
 <div>
